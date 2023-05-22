@@ -7,5 +7,6 @@ Feel free to contribute!
 
 ## Credits
 
-Credits to Rajkumar Dusad: I've used modules of your tool-x
+Credits to d4nt3!: I've used modules of your tool-x
 credits to dronedante 
+credits to d4nt3.
